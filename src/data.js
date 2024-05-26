@@ -30,13 +30,20 @@ export default [
   {
     id: 5,
     name: 'Lola Gardner',
-    age: 29,
+    age: 24,
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
   },
   {
     id: 6,
     name: 'Rahul Gusain',
+    age: 26,
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+  },
+  {
+    id: 7,
+    name: 'Gaurav Rawat',
     age: 26,
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
